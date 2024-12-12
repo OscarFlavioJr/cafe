@@ -1,0 +1,85 @@
+* {
+  background-image: url(https://imgs.search.brave.com/QR-ojZ1zB2DINLAGxUq9_LfX9ymzwEaFiRFoptVEA80/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vb21ldWRp/YWRpYS5jb20uYnIv/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MDQvZnJpby5qcGc_/cmVzaXplPTYzMiw1/MDEmc3NsPTE);
+}
+.num1 {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.num1 button {
+  font-size: 3vh;
+  cursor: pointer;
+}
+
+.num1 span {
+  font-size: 10vh;
+}
+
+#comeback {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 105%;
+  width: 150px;
+}
+
+.num2 {
+  position: absolute;
+  left: 50%;
+  top: 40%;
+  transform: translateX(-50%);
+}
+
+.num2 button {
+  font-size: 3vh;
+  cursor: pointer;
+}
+
+.num2 span {
+  font-size: 10vh;
+}
+
+#come {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 105%;
+  width: 150px;
+}
+
+.resultado {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 30%;
+  font-size: 5vh;
+  padding: 5px;
+  background: rgb(238, 0, 0);
+  background: linear-gradient(
+    90deg,
+    rgba(238, 0, 0, 1) 0%,
+    rgba(150, 150, 255, 1) 35%,
+    rgba(169, 173, 59, 1) 75%,
+    rgba(2, 101, 121, 1) 100%
+  );
+  color: white;
+  cursor: pointer;
+}
+
+.result {
+  position: absolute;
+  left: 65%;
+  top: 30%;
+  font-size: 5vh;
+  padding: 5px;
+  background: rgb(238, 0, 0);
+  background: linear-gradient(
+    90deg,
+    rgba(238, 0, 0, 1) 0%,
+    rgba(150, 150, 255, 1) 35%,
+    rgba(169, 173, 59, 1) 75%,
+    rgba(2, 101, 121, 1) 100%
+  );
+  color: white;
+}
